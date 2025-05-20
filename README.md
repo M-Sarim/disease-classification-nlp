@@ -1,4 +1,3 @@
-```markdown
 # 🧬 Disease Classification Dashboard: TF-IDF vs One-Hot Encoding
 
 This project presents an interactive **Streamlit** application that compares **TF-IDF** and **One-Hot Encoding** for disease classification based on medical text data. It integrates feature extraction, dimensionality reduction, model evaluation, and real-time prediction capabilities.
